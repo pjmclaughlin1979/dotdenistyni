@@ -133,7 +133,7 @@ define(["require", "exports", "esri/WebMap", "esri/views/MapView", "esri/layers/
                         url: url,
                         minScale: 20000000,
                         maxScale: 35000,
-                        title: "Religion 2011 Census at Super Output Area",
+                        title: "Religion 2011 Census at Output Area",
                         popupTemplate: {
                             title: "{SA2011}, {SA2011}",
                             content: [
